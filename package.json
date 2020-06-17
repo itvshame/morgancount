@@ -1,0 +1,29 @@
+{
+  "name": "twitter-countdown",
+  "version": "0.0.0",
+  "description": "Twitter bot that tweets out time left until a specified date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itvshame.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "countdown",
+    "date",
+    "time"
+  ],
+  "author": "Dobetter <dobetteritv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itvshame/issues"
+  },
+  "homepage": "https://github.com/itvshame#readme",
+  "dependencies": {
+    "twitter": "^1.2.5"
+  }
+}
